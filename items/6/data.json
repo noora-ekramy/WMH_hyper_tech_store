@@ -1,0 +1,13 @@
+{
+    "id": 6,
+    "name": "amd",
+    "category": "Motherboards",
+    "condition": "Brand New",
+    "description": "this is a GPU",
+    "price": 800.0,
+    "discount_percentage": 10.0,
+    "final_price": 720.0,
+    "images": [
+        "img1.jpg"
+    ]
+}

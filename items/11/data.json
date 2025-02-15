@@ -1,0 +1,13 @@
+{
+    "id": 11,
+    "name": "lol",
+    "category": "Games",
+    "condition": "Brand New",
+    "description": "this is a GPU",
+    "price": 4000.0,
+    "discount_percentage": 70.0,
+    "final_price": 1200.0,
+    "images": [
+        "img1.jpg"
+    ]
+}
